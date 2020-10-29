@@ -1,4 +1,5 @@
 ![GitHub](https://img.shields.io/github/license/igorccouto/cep_lookup)
+[![Build Status](https://travis-ci.com/igorccouto/cep_lookup.svg?branch=main)](https://travis-ci.com/igorccouto/cep_lookup)
 
 # CEP Lookup
 
