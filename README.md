@@ -1,3 +1,5 @@
+![GitHub](https://img.shields.io/github/license/igorccouto/cep_lookup)
+
 # CEP Lookup
 
 CEP (Postal Addressing Code in Portuguese) is the Brazilian Postal Code system. Almost every public place or high-occupancy private spaces, like major commercial buildings and residential condos, are assigned by a CEP.
